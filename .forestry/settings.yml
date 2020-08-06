@@ -8,7 +8,7 @@ sections:
   label: New
 - type: directory
   path: content/portfolio
-  label: Portfolio
+  label: Portfolio New
   create: none
   match: "*"
 - type: directory
